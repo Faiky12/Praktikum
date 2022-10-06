@@ -1,0 +1,2 @@
+# Praktikum
+Pembuatan repository praktikum
