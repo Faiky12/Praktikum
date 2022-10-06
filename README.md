@@ -1,4 +1,4 @@
 # Praktikum
 Pembuatan repository praktikum
 
-Faiqotul Mahmudah
+Faiqotul Mahmudah - 105219021
